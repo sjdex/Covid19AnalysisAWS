@@ -1,0 +1,6 @@
+Create Relational Model -> Glue Crawlers using data stored in S3
+Connect to athena and query data -> creating dataframes
+ETL job in Python -> creating dimension model
+Save result to s3
+create redshift cluster
+create a glue job to copy data from s3 to Redshift
